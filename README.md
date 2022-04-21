@@ -1,2 +1,2 @@
-# MachineLearning_Algorithms
-Programming Project
+# ML_Project
+# Machine-Learning
