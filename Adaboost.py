@@ -260,3 +260,4 @@ if __name__ == "__main__":
             standard_deviation = np.std(accuracy_list)
         print("Accuracy:", sum(accuracy_list) / len(accuracy_list))
         print("Adaboost standard deviation for", sys.argv[1], standard_deviation)
+        print("Adaboost standard deviation for", sys.argv[1], standard_deviation)
